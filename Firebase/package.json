@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "nativescript-plugin-firebase": "2.1.8",
+    "nativescript-plugin-firebase": "git+https://github.com/blagoev/nativescript-plugin-firebase.git",
     "tns-core-modules": "1.7.1"
   },
   "devDependencies": {
